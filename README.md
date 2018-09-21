@@ -4,28 +4,28 @@ Instalar TypeScript
 -   npm install -g typescript
 
 Crea el archivo tsconfig.json
-    -   tsc -init
+-   tsc -init
 
 Compilar un solo archivo
-    -   tsc helloworld.ts
+-   tsc helloworld.ts
 
 Compila todos los TypeScripts una ves se crea tsconfig.json
-    -   tsc
+-   tsc
 
 Instalar Angular con TypeScript
-    -   npm install -g @angular/cli
+-   npm install -g @angular/cli
 
 Crear proyecto con Angular y TypeScript
-    -   ng new miproyecto
+-   ng new miproyecto
 
 Correr proyecto Angular
-    -   ng serve --open
+-   ng serve --open
 
 Instalar Ioniv y Cordova
-    -   npm install -g ionic@latest cordova@latest
+-   npm install -g ionic@latest cordova@latest
 
 Crear proyecto Ionic
-    -   ionic start MiPrimerApp <Opcioal>
+-   ionic start MiPrimerApp <Opcioal>
     
     Como Opcional es posible crear el proyecto de las siguientes maneras
         -   Tabs: Genera un proyecto simple con una interfaz de pestañas (tabs).
@@ -37,4 +37,4 @@ Crear proyecto Ionic
         -   Aws: Genera un proyecto simple con Amazon Web Service.
 
 Correr/Compilar proyecto Ionic
-    -   ionic serve
+-   ionic serve
