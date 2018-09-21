@@ -1,7 +1,7 @@
 # typescript
 
 Instalar TypeScript
-    -   npm install -g typescript
+-   npm install -g typescript
 
 Crea el archivo tsconfig.json
     -   tsc -init
