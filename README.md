@@ -27,7 +27,7 @@ Instalar Ioniv y Cordova
 Crear proyecto Ionic
 -   ionic start MiPrimerApp <Opcioal>
     
-    Como Opcional es posible crear el proyecto de las siguientes maneras
+    * Como Opcional es posible crear el proyecto de las siguientes maneras
         -   Tabs: Genera un proyecto simple con una interfaz de pestañas (tabs).
         -   Blank: Genera un proyecto en blanco.
         -   Sidemenu: Genera un proyecto inicial con un menú lateral con navegación en el área de contenido.
